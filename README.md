@@ -1,7 +1,7 @@
 
 # AutoJudge
 
-Artificial intelligence is being utilized in many domains as of late, and the legal system is no exception.
+Artificial intelligence is being utilized in many domains , and the legal system is no exception.
 Under Vision 2030, Saudi Arabia aims to implement sweeping reforms to the legal system to eliminate inconsistency, speed up verdicts and make the Kingdom’s judicial institutions more efficient.
 Our project (AutoJudge) aims to predict the judgment results according to the information based on fact determination, which consists of the fact description, the basic information of defendant, and the court view.
 ## Question/Need :
