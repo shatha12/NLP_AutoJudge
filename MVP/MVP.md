@@ -1,6 +1,6 @@
 # AutoJudge(MVP)
 ## Goal :
-- The primary goal of the project is to predict 
+- The primary goal of the project is to predict the outcome of the case
 
 
 ## Workflow:
