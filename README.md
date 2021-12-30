@@ -6,10 +6,10 @@ Under Vision 2030, Saudi Arabia aims to implement sweeping reforms to the legal 
 
 
 
-Our project (AutoJudge) aims to predict the judgment results according to the information based on fact determination, which consists of the fact description, the basic information of defendant, and the court view.
+Our project (AutoJudge) aims to match similar court cases and predict the judgment results according to the information based on fact determination, which consists of the fact description, the basic information of defendant, and the court view.
 ## Question/Need :
 
-The main goal of this project is to build unsupervised learning models that predict the judgment results
+The main goal of this project is to build unsupervised learning models that matches similar court cases and supervised model to  predict the judgment results
 We are going to bulid different models and compare them to use the best model.
 ## Data Description :
 
